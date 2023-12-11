@@ -11,7 +11,7 @@ function initial() {
         element.addEventListener("click", discover);
     });
 
-    // countDown();
+    countDown();
 
 }
 
